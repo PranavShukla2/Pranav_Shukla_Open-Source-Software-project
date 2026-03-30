@@ -5,8 +5,8 @@ Institution: VITyarthi
 
 ## Student Details
 
-- Student Name: MD Danish
-- Registration Number: 24BCE11107
+- Student Name: Pranav Shukla
+- Registration Number: 24BCE11525
 - Chosen Software: Apache HTTP Server
 - Execution Platform: Fedora Linux 43
 
