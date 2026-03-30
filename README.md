@@ -7,6 +7,8 @@ Institution: VITyarthi
 
 - Student Name: Pranav Shukla
 - Registration Number: 24BCE11525
+- Slot: A13
+- Date of Submission: 30-03-26
 - Chosen Software: Apache HTTP Server
 - Execution Platform: Fedora Linux 43
 
